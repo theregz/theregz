@@ -41,9 +41,3 @@ Sou estudante de Administração apaixonado por tecnologia, melhoria de processo
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/thergz">thergz</a></i></p>
-
-
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/theregz/theregz/snake-output/snake.svg" alt="Snake animation" />
-
-###
