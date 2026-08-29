@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Sou estudante de Administração apaixonado por tecnologia, melhoria de processos e tomada de decisão baseada em dados. Atualmente estou em processo de especialização na área de Análise de Dados, desenvolvendo conhecimentos práticos em Excel, SQL, Python, Power BI e Business Intelligence para transformar dados em informações estratégicas. Minha experiência com automação de processos e soluções digitais despertou meu interesse pela utilização de dados como ferramenta para otimizar operações, acompanhar indicadores e apoiar decisões de negócio. Busco evoluir continuamente tanto nas competências técnicas quanto nas habilidades de gestão, combinando visão analítica, organização e capacidade de resolver problemas de forma estruturada.
+I am a Business Administration student passionate about technology, process improvement, and data-driven decision-making. I am currently specializing in Data Analysis, developing practical skills in Excel, SQL, Python, Power BI, and Business Intelligence to transform data into strategic insights. My experience with process automation and digital solutions sparked my interest in using data to optimize operations, track key metrics, and support business decisions. I seek continuous growth in both technical and management skills, combining an analytical mindset, strong organization, and a structured approach to problem-solving.
 
 🔭 &nbsp;I'm currently working on **Projeto em MySQL - Banco Digital Inteligência Antifraude**
 
